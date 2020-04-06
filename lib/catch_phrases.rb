@@ -15,5 +15,7 @@ end
 
 def all_phrases
   puts mario
-  mario
+  puts status
+  puts linkphrase
+  linkphrase
 end 
